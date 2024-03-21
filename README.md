@@ -1,2 +1,2 @@
-# Spark-Foundation-GRIP
+# The Spark Foundation GRIP
 Graduate Rotational Internship Program by THE SPARK FOUNDATION
